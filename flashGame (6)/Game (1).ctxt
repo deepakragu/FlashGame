@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=
+comment1.target=Game()
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ update()
+comment3.text=\r\n\ \ \ \ public\ void\ paint(Graphics\ graphics)\ {\r\n\r\n\ \ \ \ //makes\ background\ black\r\n\ \ \ \ graphics.setColor(Color.black);\r\n\ \ \ \ graphics.fillRect(0,\ 0,\ WINDOW_WIDTH,\ WINDOW_HEIGHT);\r\n\r\n\ \ \ \ //paints\ square\ objects\ to\ the\ screen\r\n\ \ \ \ for\ (Square\ aSquareArray\ \:\ squareArray)\ {\r\n\ \ \ \ aSquareArray.paint(graphics);\r\n\ \ \ \ }\r\n\ \ \ \ }\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

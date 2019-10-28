@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=lightningThrow
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=lightningThrow()
+comment1.text=\r\n\ \ \ \ //sets\ the\ squareWidth\ and\ square\ fallSpeed\ to\ a\ random\ value\ for\ every\ square\ created\r\n
+comment2.params=n\ m
+comment2.target=lightningThrow(int,\ int)
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+comment3.text=\r\n\ \ \ \ //paints\ the\ square\ with\ the\ variables\ generated\ in\ the\ random\ methods\r\n
+comment4.params=
+comment4.target=void\ update()
+comment5.params=n
+comment5.target=void\ setYLocation(double)
+comment6.params=
+comment6.target=double\ returnYLocation()
+comment7.params=n
+comment7.target=void\ setXLocation(int)
+comment8.params=
+comment8.target=int\ returnXLocation()
+comment9.params=
+comment9.target=java.awt.Image\ returnImage()
+numComments=10
